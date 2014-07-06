@@ -1,0 +1,7 @@
+*.pyc
+_site/
+.DS_Store
+.doit.db
+cache/
+output/
+themes/
